@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "teste_capgemini/1.0.0": {
+        "runtime": {
+          "teste_capgemini.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "teste_capgemini/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
