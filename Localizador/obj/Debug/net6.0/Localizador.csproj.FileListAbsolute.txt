@@ -1,0 +1,15 @@
+C:\Users\Cesar\Desktop\Exercicios\Localizador\obj\Debug\net6.0\Localizador.csproj.AssemblyReference.cache
+C:\Users\Cesar\Desktop\Exercicios\Localizador\obj\Debug\net6.0\Localizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Exercicios\Localizador\obj\Debug\net6.0\Localizador.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Exercicios\Localizador\obj\Debug\net6.0\Localizador.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Exercicios\Localizador\obj\Debug\net6.0\Localizador.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Exercicios\Localizador\bin\Debug\net6.0\Localizador.exe
+C:\Users\Cesar\Desktop\Exercicios\Localizador\bin\Debug\net6.0\Localizador.deps.json
+C:\Users\Cesar\Desktop\Exercicios\Localizador\bin\Debug\net6.0\Localizador.runtimeconfig.json
+C:\Users\Cesar\Desktop\Exercicios\Localizador\bin\Debug\net6.0\Localizador.dll
+C:\Users\Cesar\Desktop\Exercicios\Localizador\bin\Debug\net6.0\Localizador.pdb
+C:\Users\Cesar\Desktop\Exercicios\Localizador\obj\Debug\net6.0\Localizador.dll
+C:\Users\Cesar\Desktop\Exercicios\Localizador\obj\Debug\net6.0\refint\Localizador.dll
+C:\Users\Cesar\Desktop\Exercicios\Localizador\obj\Debug\net6.0\Localizador.pdb
+C:\Users\Cesar\Desktop\Exercicios\Localizador\obj\Debug\net6.0\Localizador.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Exercicios\Localizador\obj\Debug\net6.0\ref\Localizador.dll

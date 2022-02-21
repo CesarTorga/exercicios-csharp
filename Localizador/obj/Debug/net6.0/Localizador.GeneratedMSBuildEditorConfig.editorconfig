@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = aplicacoes_csharp
-build_property.ProjectDir = c:\Users\Cesar\Desktop\Exercicios\aplicacoes_csharp\
+build_property.RootNamespace = Localizador
+build_property.ProjectDir = c:\Users\Cesar\Desktop\Exercicios\Localizador\
